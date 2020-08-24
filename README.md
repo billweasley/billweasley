@@ -8,5 +8,4 @@
 	<a href="https://www.zhihu.com/people/wang-hao-xuan-26"><img src="https://img.shields.io/badge/知乎--_.svg?style=social&logo=zhihu" alt="知乎"></a>
 </p>
 
-I am now a Technology Analyst in Barclays. 
-i have a strong interest in natural language processing, information retrieval and data mining.
+I have a strong interest in natural language processing, information retrieval and data mining.
